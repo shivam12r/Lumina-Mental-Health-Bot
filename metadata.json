@@ -1,0 +1,7 @@
+{
+  "name": "Lumina - Teen Mental Health Companion",
+  "description": "A compassionate, safe, and supportive AI companion designed for teens facing anxiety and depression. Features real-time voice conversations and text chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
